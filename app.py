@@ -28,7 +28,6 @@ PROJECTS = {
     "🏆 ML Doctor - Machine learning based web app for easy Diagnosis": "https://github.com/gdeepakdeepuml/ML-Doctor-",
     "🏆 Stock Forecasting App - This Stock Forecasting App can forecast 504 top companies stocks": "https://github.com/gdeepakdeepuml/Stock-Market-Forecasting-App",
     "🏆 COVIDBOT - complete end to end chat-bot with Pytorch for Covid-19 . this chat-bot can help to answer any question Corona": "https://github.com/gdeepakdeepuml/covidbot",
-
 }
 AWARDS = [
     "✨ AI/ML hackathon at KCG IT - Top 1 among 40+ teams",
