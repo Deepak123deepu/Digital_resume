@@ -1,5 +1,4 @@
 from pathlib import Path
-
 import streamlit as st
 from PIL import Image
 
@@ -22,7 +21,7 @@ EMAIL = "gdeepakdeepuml@gmail.com"
 SOCIAL_MEDIA = {
     "LinkedIn": "https://www.linkedin.com/in/deepudeepak1243/",
     "GitHub": "https://github.com/gdeepakdeepuml",
-    "Kaggle": "https://www.kaggle.com/deepakdeepu8978l",
+    "Kaggle": "https://www.kaggle.com/deepakdeepu8978",
 }
 PROJECTS = {
     "🏆 13+ Machine learing use cases": "https://www.kaggle.com/deepakdeepu8978/code",
